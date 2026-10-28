@@ -64,23 +64,103 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Glew is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Glew is a commerce data platform for ecommerce and multichannel retail brands, merchants and agencies. Its Commerce Data Cloud combines an automated data pipeline (ELT with data validation), a managed commerce data warehouse and Commerce Intelligence reporting (custom reports powered by Looker, daily snapshot emails) across 170+ integrations including Shopify, BigCommerce, Magento, WooCommerce, Salesforce, Klaviyo and TikTok Shop. No public developer API documentation is linked from its site; integrations are configured inside the app at app.glew.io.
 
-**Areas:** Company
+**Areas:** Company · eCommerce · Analytics · Data Platform · Retail · Business Intelligence · ETL · Data Warehouse · Reporting
 
 ## Glew on APIs.io
 
 Everything profiled for Glew is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/glew/](https://apis.io/providers/glew/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [Glew Data Pipeline REST API](https://apis.io/apis/glew/glew-data-pipeline-rest-api/) — Glew's data pipeline product page says it connects with any data source, including 170+ pre-built integrations, custom integrations via REST API and data…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Glew Authentication](https://apis.io/security/glew/glew-authentication/)
+- [Glew Domain Security](https://apis.io/security/glew/glew-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Glew Scopes](https://apis.io/scopes/glew/glew-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Glew Plans Pricing](https://apis.io/plans/glew/glew-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Glew Rate Limits](https://apis.io/rate-limits/glew/glew-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://glew.io/)
+- [Website](https://www.glew.io/)
+- [Documentation](https://www.glew.io/resources)
+- [Getting started](https://www.glew.io/guides/getting-started-with-ecommerce-tracking-in-google-analytics)
+- [Pricing](https://www.glew.io/pricing)
+- [Support](https://www.glew.io/faqs)
+- [Changelog](https://www.glew.io/product-updates)
+- [Blog](https://www.glew.io/articles)
+- [Terms of service](https://www.glew.io/terms-of-use)
+- [Privacy policy](https://www.glew.io/privacy-policy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/glew/](https://apis.io/providers/glew/).
+**Kin Score 27.7** — thin · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 63.7 |
+
+**Agent readiness 5.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/glew/](https://apis.io/providers/glew/).
 
 ## How this profile is made
 
