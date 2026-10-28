@@ -121,7 +121,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 27.7** — thin · rubric 0.25.0 · scored 2026-10-28
+**Kin Score 28.1** — thin · rubric 0.25.0 · scored 2026-10-28
 
 | Facet | Score |
 |---|---|
@@ -130,7 +130,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 15.8 |
 | Developer ergonomics | 28.6 |
-| Access clarity | 63.7 |
+| Access clarity | 65.8 |
 
 **Agent readiness 5.6** — agent-aware
 
